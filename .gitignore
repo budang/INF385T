@@ -1,4 +1,8 @@
 venv
+__MACOSX/
 __pycache__
+data/
+images/
+data.zip
 *cfg.py
 .ipynb_checkpoints
