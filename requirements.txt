@@ -1,12 +1,16 @@
+absl-py==0.1.11
+astor==0.6.2
 backports-abc==0.5
-bleach==2.1.2
+bleach==1.5.0
 certifi==2018.1.18
 chardet==3.0.4
 cycler==0.10.0
 decorator==4.2.1
 entrypoints==0.2.3
+gast==0.2.0
 graphviz==0.8.2
-html5lib==1.0.1
+grpcio==1.10.0
+html5lib==0.9999999
 idna==2.6
 ipykernel==4.8.0
 ipython==6.2.1
@@ -19,6 +23,7 @@ jupyter==1.0.0
 jupyter-client==5.2.1
 jupyter-console==5.2.0
 jupyter-core==4.4.0
+Markdown==2.6.11
 MarkupSafe==1.0
 matplotlib==2.1.1
 mglearn==0.1.6
@@ -28,7 +33,7 @@ nbformat==4.4.0
 networkx==2.1
 nltk==3.2.5
 notebook==5.3.1
-numpy==1.14.0
+numpy==1.14.1
 opencv-contrib-python==3.4.0.12
 opencv-python==3.4.0.12
 pandas==0.22.0
@@ -37,7 +42,9 @@ parso==0.1.1
 pexpect==4.3.1
 pickleshare==0.7.4
 Pillow==5.0.0
+pkg-resources==0.0.0
 prompt-toolkit==1.0.15
+protobuf==3.5.2
 ptyprocess==0.5.2
 Pygments==2.2.0
 pyparsing==2.2.0
@@ -55,6 +62,9 @@ Send2Trash==1.4.2
 simplegeneric==0.8.1
 six==1.11.0
 sklearn==0.0
+tensorboard==1.6.0
+tensorflow==1.6.0
+termcolor==1.1.0
 terminado==0.8.1
 testpath==0.3.1
 tornado==4.5.3
@@ -63,4 +73,5 @@ typing==3.6.2
 urllib3==1.22
 wcwidth==0.1.7
 webencodings==0.5.1
+Werkzeug==0.14.1
 widgetsnbextension==3.1.0
