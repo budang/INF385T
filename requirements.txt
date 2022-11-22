@@ -32,7 +32,7 @@ nbconvert==6.5.1
 nbformat==4.4.0
 networkx==2.1
 nltk==3.6.6
-notebook==6.4.1
+notebook==6.4.12
 numpy==1.21.0
 opencv-contrib-python==4.2.0.32
 opencv-python==4.2.0.32
