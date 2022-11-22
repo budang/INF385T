@@ -22,7 +22,7 @@ jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.2.1
 jupyter-console==5.2.0
-jupyter-core==4.4.0
+jupyter-core==4.11.2
 Markdown==2.6.11
 MarkupSafe==1.0
 matplotlib==2.1.1
